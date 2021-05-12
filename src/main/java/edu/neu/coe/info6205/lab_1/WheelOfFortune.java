@@ -58,7 +58,7 @@ public class WheelOfFortune<T> {
      */
     public T get() {
         // TO BE IMPLEMENTED
-        throw new UnsupportedOperationException();
+        throw new RuntimeException("logic error: " + r);
     }
 
     // Private stuff...

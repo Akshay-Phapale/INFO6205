@@ -94,7 +94,6 @@ public class Bag_Array<Item> implements Bag<Item> {
      */
     private static <T> T[] growFrom(T[] from, int size) {
         // TO BE IMPLEMENTED
-        throw new UnsupportedOperationException();
     }
 
     private Item[] items = null;

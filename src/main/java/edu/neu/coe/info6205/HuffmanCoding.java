@@ -78,7 +78,6 @@ public class HuffmanCoding {
 
         public Code add(int x) {
             // TO BE IMPLEMENTED
-            throw new UnsupportedOperationException();
         }
 
         @Override

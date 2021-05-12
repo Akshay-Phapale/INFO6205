@@ -38,7 +38,6 @@ public class Queue_Elements<Item> implements SizedIterable<Item>, Queue<Item> {
         if (isEmpty()) return null;
         else {
             // TO BE IMPLEMENTED
-            throw new UnsupportedOperationException();
         }
     }
 
